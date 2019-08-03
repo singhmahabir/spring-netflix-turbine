@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 'turbine-aggregator'
+   
+server:
+  port: 8759
+  
